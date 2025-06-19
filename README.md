@@ -17,7 +17,7 @@ The repository contains two main modules:
 
 ## 👥 Attribution
 
-This code base was created **in collaboration with**
+This code base was created by Johan Hoppe Rauer **in collaboration with**
 
 * **Nicolai Eiding** – Placeholder 1 – Placeholder 2  
 
