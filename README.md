@@ -21,7 +21,7 @@ This code base was created by Johan Hoppe Rauer **in collaboration with**
 
 * **Nicolai Eiding** – Placeholder 1 – Placeholder 2  
 
-as part of their university project in **[Placeholder 3]**.
+as part of their university project in ** Design af Energianlæg **.
 
 ---
 
