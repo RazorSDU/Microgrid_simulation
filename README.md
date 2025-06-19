@@ -17,9 +17,7 @@ The repository contains two main modules:
 
 ## 👥 Attribution
 
-This code base was created by Johan Hoppe Rauer **in collaboration with**
-
-* **Nicolai Eiding** – Placeholder 1 – Placeholder 2  
+This code base was created by RazorSDU **in collaboration with Students**  
 
 as part of their university project in ** Design af Energianlæg **.
 
