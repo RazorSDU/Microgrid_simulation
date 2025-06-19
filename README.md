@@ -13,8 +13,6 @@ The repository contains two main modules:
 | **`microgrid_simulation.py`** | Deterministic, modular simulator that follows a mermaid-documented flowchart and logs every power / energy flow |
 | **`microgrid_plotter.py`**    | Convenience layer that runs the simulation and pops up seven diagnostic figures (surplus/deficit, storage levels, heat & electricity splits, unserved energy, …) |
 
-> ℹ️ **Status:** research prototype & teaching demo – not production-hardened!
-
 ---
 
 ## 👥 Attribution
