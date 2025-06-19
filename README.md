@@ -70,7 +70,6 @@ run_and_plot(
 | Numerical Robustness | EPS tolerance, explicit efficiencies | Eliminates floating-point pico-imports/exports |
 | Extendability Hooks | Enum `HeatPumpType`, `ComponentLimits` | Swap COP column or device ratings without rewiring logic |
 | Dev Experience | Type hints, 100 % docstrings | Straightforward for students to extend & refactor |
-| Testing (planned) | pytest, property-based tests | Stubs already structured for deterministic runs |
 
 ---
 
